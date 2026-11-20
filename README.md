@@ -1,0 +1,2 @@
+
+CatatBon merupakan aplikasi manajemen hutang dan piutang pribadi yang membantu pengguna mencatat transaksi, melacak status pelunasan, serta memantau sisa hutang dan piutang secara otomatis. Aplikasi ini juga menyediakan ringkasan total hutang, total piutang, dan saldo bersih untuk membantu pengguna memahami kondisi keuangannya. Admin memiliki akses untuk mengelola data pengguna dan memantau aktivitas pencatatan.
